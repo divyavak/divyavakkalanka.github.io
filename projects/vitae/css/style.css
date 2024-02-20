@@ -1,0 +1,18 @@
+header {
+        color:rgb(53, 14, 65);
+        font-family: Georgia;
+        font-size:16px;
+        background-color: lavender;
+        text-align: center;
+        padding: 4em;
+}
+
+body {
+    color:blueviolet;
+    font-weight: 600;
+}
+
+section {
+    color:navy
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
