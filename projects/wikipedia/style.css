@@ -1,0 +1,42 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #DBCFB0;
+    color: black;
+    font-size: 18px;
+    line-height: 2;
+}
+
+img {
+    width: 50%;
+    margin: 0 0 2em 0;
+}
+
+h1,
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+h2 {
+    background-color:blanchedalmond;
+    display: inline;
+    padding: 1px 35px 1px 5px;
+}
+
+h3 {
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.objective{
+    color:black
+}
+
+main {
+    width: 70%;
+    margin: 2em 0 4em 1em;
+}
+
+
+
