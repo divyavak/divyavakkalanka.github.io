@@ -1,0 +1,111 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(3, 24, 3);
+    color: #fcf7f5;
+    font-size: 16px;
+
+}
+
+header {
+    padding: 5% 0 0 0;
+    text-align: center;
+}
+
+h1,
+h2 {
+    font-family: "Syne", sans-serif;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 1.8em;
+}
+
+h2 {
+    font-size: 1.3em;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #161413;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    font-size: 1.3em;
+    text-transform: uppercase;
+    font-weight: 300;
+    background-color: bisque;
+    color: #161413;
+    letter-spacing: 1px;
+}
+
+a {
+    color: #9AD2CB;
+    text-decoration: none;
+}
+
+.Now_Serving {
+    background-color: bisque;
+
+}
+
+.right {
+    text-align: right;
+}
+
+.light_background {
+    background-color: rgb(245, 244, 242);
+    color: #070a0a;
+    text-align: left;
+}
+
+
+nav a {
+    text-transform: uppercase;
+    font-size: .85em;
+    padding: 3%;
+}
+
+header {
+    padding: 5% 0 0 0;
+}
+
+footer,
+section {
+    padding: 10% 0;
+}
+
+
+footer {
+    background-color: #FAC9B8;
+}
+
+footer a {
+    color: #161413;
+}
+
+
+a:hover {
+    color: #161413;
+}
+
+
+
+img {
+    margin: 5% 0;
+}
+
+.btn-light {
+    width: 100%;
+    background-color: #FAC9B8;
+    text-transform: uppercase;
+    font-size: .85em;
+    letter-spacing: 2;
+}
+
+.btn-light:hover {
+    background-color: #9AD2CB;
+}
+
+footer .btn-light {
+    background-color: #FFFBFA;
+}

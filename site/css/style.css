@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(184, 156, 126);
+    color: #cd6161;
+    font-size: 16px;
+}
+
+header {
+    padding: 5% 0 0 0;
+    text-align: center;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 1.8em;
+    color:rgb(95, 62, 43)
+}
