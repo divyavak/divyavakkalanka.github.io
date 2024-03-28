@@ -1,7 +1,12 @@
+*{
+    font-family: "Prata", sans-serif
+   }
+
 body {
     background-color: rgb(184, 156, 126);
     color: #cd6161;
     font-size: 16px;
+    font-family: "prata", sans-serif;
 }
 
 header {
@@ -12,5 +17,18 @@ header {
 h1 {
     font-weight: 800;
     font-size: 1.8em;
-    color:rgb(95, 62, 43)
+    color: rgb(95, 62, 43) ;
+    text-transform:uppercase;
 }
+nav {
+    text-transform: capitalize;
+}
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(60, 49, 38);
+    font-size: 1.3em;
+    }
+
+
+
+
