@@ -1,34 +1,41 @@
-*{
-    font-family: "Prata", sans-serif
-   }
+* {
+    font-family: "Prata", sans-serif;
+    font-size: 16px;
+}
 
 body {
-    background-color: rgb(184, 156, 126);
-    color: #cd6161;
-    font-size: 16px;
-    font-family: "prata", sans-serif;
+    background-color: rgb(179, 154, 127);
+    color: #2f0808;
+
+
 }
 
 header {
-    padding: 5% 0 0 0;
+    padding: 5% 0;
     text-align: center;
 }
 
 h1 {
     font-weight: 800;
     font-size: 1.8em;
-    color: rgb(95, 62, 43) ;
-    text-transform:uppercase;
+    color: rgb(95, 62, 43);
+    text-transform: uppercase;
 }
+
+h2 {
+    font-size: 1.2em;
+}
+
 nav {
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
+
 a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(60, 49, 38);
     font-size: 1.3em;
-    }
+}
 
-
-
-
+contact {
+    padding: 5% 0 0 0;
+}
