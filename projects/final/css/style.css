@@ -1,0 +1,47 @@
+header {
+    padding: 5% 10% 10% 5% 5%;
+    min-height: 20vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #004aad;
+    text-align: center;
+    color: black;
+    font-family: 'Libre Baskerville';
+}
+
+main {
+    font-family: 'Playfair Display';
+    font-size: larger;
+    background-color: beige;
+}
+
+h3 {
+    font-weight: 200;
+}
+
+.container6 {
+    max-width: 90%;
+}
+
+img {
+    max-width: 100%;
+}
+
+footer {
+    font-family: 'Libre Baskerville'
+}
+
+.containerone {
+    text-align: center;
+    padding-left: 5%;
+}
+
+.containertwo {
+    text-align: center;
+}
+
+.containertext {
+    font-size: smaller;
+
+}
